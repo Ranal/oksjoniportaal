@@ -1,0 +1,2 @@
+http://getbootstrap.com/examples/carousel/
+http://bootsnipp.com/snippets/featured/horizontal-login-form-in-navbar
